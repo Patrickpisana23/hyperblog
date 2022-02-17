@@ -5,10 +5,17 @@
 }
 
 .pepe{
+    text-align: center;
+    height: auto;
+    width: 300px;
+    margin-left: 30%;
     background-color: yellow;
 
 }
 
 .texto{
+    margin-left: 20px;
+    padding-left: 3px;
+    
     border-top: 29px coral;
 }
