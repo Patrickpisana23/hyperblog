@@ -19,3 +19,12 @@
     
     border-top: 29px coral;
 }
+.footer{
+    padding: 20px;
+    height: 10px;
+    width: 390px;
+    margin-top: 20px;
+    margin-left: 90px;
+    background-color: tomato;
+    
+}
